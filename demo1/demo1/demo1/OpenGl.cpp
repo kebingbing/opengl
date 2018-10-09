@@ -16,7 +16,7 @@ int main(int argc,char *argv[])
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(600, 300);
 
-	glutCreateWindow("第一个OpenGL程序");
+	glutCreateWindow("绗竴涓狾penGL绋嬪簭");
 
 	glutDisplayFunc(&myDisplay);
 
