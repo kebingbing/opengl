@@ -1,12 +1,9 @@
-*.log
-*.pdb
+
 *.exe
 *.ilk
+*.pdb
 *.db
 *.opendb
+*.tlog
 *.obj
 *.idb
-*.tlog
-*.lastbuildstate
-*.log
-*.log
