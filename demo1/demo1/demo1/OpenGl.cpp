@@ -14,7 +14,7 @@ int main(int argc,char *argv[])
 	glutInitDisplayMode(GLUT_RGB | GLUT_SINGLE);
 
 	glutInitWindowPosition(100, 100);
-	glutInitWindowSize(600, 400);
+	glutInitWindowSize(600, 300);
 
 	glutCreateWindow("第一个OpenGL程序");
 
