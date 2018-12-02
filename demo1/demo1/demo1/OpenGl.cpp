@@ -5,6 +5,7 @@ void myDisplay()
 	glClear(GL_COLOR_BUFFER_BIT);
 	glRectf(-0.5f, -0.5f, 0.5f, 0.5f);
 	glFlush();
+	/////
 
 }
 
